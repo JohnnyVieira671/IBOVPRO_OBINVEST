@@ -53,7 +53,7 @@ IBOV PRO é uma aplicação web interativa desenvolvida em Python com Streamlit,
 
 # COMO EXECUTAR O PROJETO
 1. Clone este repositório:
-   git clone https://github.com/seu-usuario/ibov-pro.git
+   git clone https://github.com/JohnnyVieira671/IBOVPRO_OBINVEST.git
 
 2. Acesse o diretório do projeto:
   cd ibov-pro
